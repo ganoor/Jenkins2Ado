@@ -1,0 +1,30 @@
+command,technology
+podman,Podman
+docker,Docker
+sonar-scanner,SonarQube
+sh,Shell
+mvn,Maven
+gradle,Gradle
+python,Python
+javac,Java
+java,Java
+npm,Node.js/ReactJS
+ng,AngularJS
+vue,Vue.js
+django,Django
+flask,Flask
+rails,Ruby on Rails
+spring-boot,Spring Boot
+dotnet,ASP.NET
+flutter,Flutter
+react-native,React Native
+ionic,Ionic
+trivy,Trivy
+bandit,Bandit
+pytest,Pytest
+groovy,Groovy
+nexus,Nexus
+nodejs,Node.js
+restassured,RestAssured
+az,Azure CLI
+terraform,Terraform
